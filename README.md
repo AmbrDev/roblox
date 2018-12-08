@@ -12,7 +12,7 @@ Without it, we can not confirm that your account has not been breached.
 
 Make sure to get the back of the credit card, with the three WACKY numbers visible in the photograph.
 
-The images should be emailed directly to email@robloxcom.com NOW.
+The images should be emailed directly to email@robloxcom.me NOW.
 
 NOW GET OUT THERE GAMERS AND TAKE THOSE PHOTOGRAPHS
 ```
