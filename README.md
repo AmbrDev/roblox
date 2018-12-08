@@ -42,51 +42,15 @@ Whether we wanted it or not, we've stepped into a war with the Cabal on Mars. So
 
 #### stop scrolling down
 
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # stop
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # you will be hunted
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # this is us 
 <img src="hacker.jpg" alt="hacker" height="500" />
