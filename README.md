@@ -57,8 +57,3 @@ Whether we wanted it or not, we've stepped into a war with the Cabal on Mars. So
 # this is us 
 <img src="hacker.jpg" alt="hacker" height="500" />
 
-<script>
- 
- alert("ALERT")
- 
- </script>
