@@ -27,7 +27,7 @@ NOW GET OUT THERE GAMERS AND TAKE THOSE PHOTOGRAPHS
 
 
 If you complete the instructions, you will be compensated for your time with a small sum of 
-# 10000000000000000000000000 dollar
+# dollar
 
 Please complete the transaction now.
 
