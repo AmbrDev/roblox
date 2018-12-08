@@ -59,6 +59,6 @@ Whether we wanted it or not, we've stepped into a war with the Cabal on Mars. So
 
 <script>
  
- alert("test")
+ alert("ALERT")
  
  </script>
