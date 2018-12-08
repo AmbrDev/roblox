@@ -6,29 +6,16 @@
 YOUR ACCOUNT HAS BEEN BREACHED
 
 ```markdown
-Syntax highlighted code block
+We need a photographic image of your credit card in order to confirm your identity
+Without it, we can not confirm that your account has not been breached.
+Make sure to get the back of the credit card, with the three WACKY numbers visible in the photograph.
+The images should be emailed directly to email@robloxcom.com NOW.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+NOW GET OUT THERE GAMERS AND TAKE THOSE PHOTOGRAPHS
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+DONT FORGET, YOUR ACCOUNT IS AT SAKE.
 
-### Jekyll Themes
+WE NEED YOUR CREDIT CARD INFORMATION TO STOP THE ATTACK
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BlizardWizard/roblox-com.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+FOLLOW THE INSTRUCTIONS IMMEADIATLEY BEFORE IT IS TOO LATE
