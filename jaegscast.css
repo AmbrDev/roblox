@@ -3,7 +3,7 @@ body {
  margin: 0px;
 }
 
-header {
+.header {
  position: fixed;
  right: 0px;
  
