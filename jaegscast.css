@@ -30,5 +30,7 @@ body {
 }
 
 .logo {
- 
+ position: absolute;
+ top: 0px;
+ right: 50px;
 }
