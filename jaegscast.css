@@ -1,6 +1,10 @@
 
 .title {
+ height: 70px;
+ width; 100%;
+ 
  background-color: lightgrey;
- color: pink;
-  
+ color: white;
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
+ 
 }
