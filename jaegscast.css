@@ -38,10 +38,10 @@ body {
 
 .wrapper {
  z-index: 0;
- width: 30%;
+ width: 40%;
  height: 100%;
  position: absolute;
  top: 180px;
- left: 33.33%;
+ left: 20%;
  background-color: #e0e0e0;
 }
