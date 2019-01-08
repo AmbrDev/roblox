@@ -1,10 +1,16 @@
 
-.title {
+header {
  height: 70px;
  width; 100%;
- 
  background-color: lightgrey;
+ 
+}
+
+.title {
  color: white;
  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.subtitle {
  
 }
