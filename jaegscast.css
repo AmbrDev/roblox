@@ -18,13 +18,13 @@ body {
 }
 
 .title {
- margin-left: 150px;
+ margin-left: 80%;
  color: white;
  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 .subtitle {
- margin-left: 180px;
+ margin-left: 80%;
  color: white;
  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
@@ -32,5 +32,5 @@ body {
 .logo {
  position: absolute;
  top: 0px;
- right: 50px;
+ left: 0%;
 }
