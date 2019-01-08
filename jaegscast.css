@@ -18,11 +18,13 @@ body {
 }
 
 .title {
- left: 10px;
+ margin-left: 150px;
  color: white;
  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 .subtitle {
- 
+ margin-left: 180px;
+ color: white;
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
