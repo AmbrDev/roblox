@@ -39,7 +39,9 @@ body {
 .wrapper {
  z-index: 0;
  width: 30%;
+ height: 100%;
  position: absolute;
+ top: 20%;
  left: 33.33%;
  background-color: grey;
 }
