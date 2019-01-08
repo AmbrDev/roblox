@@ -56,5 +56,12 @@ body {
 }
 
 .post {
- 
+  position: relative;
+ left: 10%;
+ width: 80%;
+ height: 200px;
+ top: 30px;
+ outline-color: black;
+ outline-width: 3px;
+ outline-style: dashed;
 }
