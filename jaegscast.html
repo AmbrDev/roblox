@@ -27,13 +27,6 @@
 
   <body>
     
-     <script>
-  function play(){
-       var audio = document.getElementById("audio");
-       audio.play();
-                 }
-   </script>
-    
     <div class="header">
       <h1 class="title">Welcome to Der Jaegscast</h1>      
       <p class="subtitle">The Official Der Jaegscast Podcast!</p>
@@ -42,16 +35,21 @@
     
     
     <div class="wrapper">
-      this is the main content here
-      <input type="button" value="PLAY"  onclick="play()">
-      <audio id="audio" src="podcasts/Yogoftheweek.mp3" ></audio>
       
       <div class="post">
         this is a post, where each indicidual podcast would go
+        <audio controls="controls">
+        <source src="Yogoftheweek.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
       </div>
       
       <div class="post">
         here is another post
+        <audio controls="controls">
+        <source src="Notablesong.mp3" type="audio/mpeg" />
+        Your browser does not support the audio element.
+      </audio>
       </div>
       
       <div class="post">
