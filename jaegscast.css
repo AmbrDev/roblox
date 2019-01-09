@@ -47,21 +47,21 @@ body {
 }
 
 .sidebar{
- width: 300px;
+ width: 20%;
  height: 100%;
  position: absolute;
  top: 180px;
- right: 100px;
+ right: 6%;
  background-color: #e0e0e0;
 }
 
 .post {
  position: relative;
- left: 10%;
- width: 80%;
+ left: 5%;
+ width: 90%;
  height: 200px;
  top: 30px;
  outline-color: black;
  outline-width: 3px;
- outline-style: dashed;
+ outline-style: outset;
 }
