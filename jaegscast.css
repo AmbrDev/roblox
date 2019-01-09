@@ -39,9 +39,10 @@ body {
 .wrapper {
  z-index: 0;
  width: 40%;
- height: 100%;
+ height: auto;
  position: absolute;
  top: 180px;
+ padding-bottom: 10px;
  left: 20%;
  background-color: #e0e0e0;
 }
@@ -58,7 +59,8 @@ body {
 .post {
  position: relative;
  left: 5%;
- width: 90%;
+ right 5%;
+ width: -webkit-fill-available;
  height: 200px;
  top: 30px;
  outline-color: black;
@@ -66,4 +68,5 @@ body {
  outline-style: outset;
  margin-bottom: 30px;
  padding: 5px;
+ margin-right: 10%;
 }
