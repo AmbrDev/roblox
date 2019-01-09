@@ -19,13 +19,19 @@ body {
 }
 
 .title {
- margin-left: 70%;
+ position: absolute;
+ margin-top: 0px;
+ left: 70%;
  color: white;
  font-family: "Trebuchet MS", Helvetica, sans-serif;
  max-width: 30%;
+ max-height: 100px;
+ top: 5px;
 }
 
 .subtitle {
+ position: absolute;
+ top: 65px; 
  margin-left: 70%;
  color: white;
  font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -72,9 +78,10 @@ body {
  margin-right: 10%;
 }
 
-.audio {
- position: absolute;
- bottom: 5%;
- left: 10%;
- width:80%;
+audio {
+    position: absolute;
+    bottom: 5%;
+    left: 10%;
+    width:80%;
+    
 }
