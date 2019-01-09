@@ -72,6 +72,7 @@ body {
  width: -webkit-fill-available;
  height: 200px;
  top: 30px;
+ background-color: white;
  outline-color: black;
  outline-width: 3px;
  outline-style: outset;
