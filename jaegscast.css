@@ -85,13 +85,13 @@ body {
 }
 
 audio {
-    position: absolute;
-    bottom: 5%;
-    left: 10%;
-    width:80%;
+ position: absolute;
+ bottom: 5%;
+ left: 10%;
+ width:80%;
     
 }
 
 .thumbnail {
-    height: 130px;    
+ height: 130px;    
 }
