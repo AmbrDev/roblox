@@ -68,6 +68,27 @@ body {
  border-radius: 30px;
 }
 
+h2.sidebar-text {
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
+ text-align: center;
+ font-size: 1.4em;
+ color: #207357;
+}
+
+h3.sidebar-text {
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
+ text-align: center;
+ color: #d81212
+}
+
+p.sidebar-text {
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
+ text-align: center;
+ color: grey;
+ position: relative;
+ top: 25px;
+}
+
 .post {
  position: relative;
  left: 5%;
@@ -81,6 +102,7 @@ body {
  outline-style: outset;
  margin-bottom: 10%;
  padding: 5px;
+ padding-bottom: 0px;
  margin-right: 10%;
 }
 
@@ -93,18 +115,33 @@ audio {
 }
 
 .thumbnail {
+ position: absolute;
  height: 130px;    
 }
 
 .content-wrapper {
+ position: absolute;
  height: 200px;
  width: 300px;
- position: absolute;
- top:10px;
- right: 0px; 
+ top:0px;
+ right: 20px; 
+ text-align: center;
 }
 
-div > h3 {
+h2.content {
  font-family: "Trebuchet MS", Helvetica, sans-serif;
+ color: black;
 
+}
+
+h3.content {
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
+ font-size: 1.4em;
+ color: #d81212;
+
+}
+
+p.content {
+ color: grey;
+ text-align: right;
 }
