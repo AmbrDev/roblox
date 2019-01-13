@@ -95,3 +95,16 @@ audio {
 .thumbnail {
  height: 130px;    
 }
+
+.content-wrapper {
+ height: 200px;
+ width: 300px;
+ position: absolute;
+ top:10px;
+ right: 0px; 
+}
+
+div > h3 {
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
