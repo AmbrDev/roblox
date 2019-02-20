@@ -2,4 +2,4 @@
 
 <!-- Copyright 2019 Ivar Rydstrom -->
 
-an innovative and epic way to do nothing
+I wasted like 2 hours making this
